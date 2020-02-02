@@ -18,6 +18,7 @@ Define three Value classes namely: FirstName, LastName and Age
 Define a method like - displayDetails which may take these three value classes as inputs and returns
 a string as:
 Output: Prashant Goel is of 24 years.
+
 Q3. Question on Trait and packages:
 Make a trait Queue which performs two functions of enqueue and dequque.
 Two classes: DoubleQueue and SquareQueue mix in this trait.
